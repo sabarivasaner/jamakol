@@ -221,7 +221,7 @@ def run_prasna_pipeline(
         #print("First uthaya mudivu :", first_uthaya_mudivu.strftime("%Y-%m-%d %H:%M:%S"))
         print("Uthayam count       :", uthayam_count)
         print("Arudam number       :", arudam_info["arudam_no"])
-        print("Arudam rasi         :", arudam_info["arudam_rasi"])
+        print("Arudam rasi1         :", arudam_info["arudam_rasi"])
 
 
     return {
