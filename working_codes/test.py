@@ -222,6 +222,7 @@ def run_prasna_pipeline(
         print("Uthayam count       :", uthayam_count)
         print("Arudam number       :", arudam_info["arudam_no"])
         print("Arudam rasi         :", arudam_info["arudam_rasi"])
+        print("Arudam rasi         :", arudam_info["arudam_rasi"])
 
     return {
         "local_dt": local_dt,
